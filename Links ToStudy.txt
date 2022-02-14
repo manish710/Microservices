@@ -1,0 +1,14 @@
+/****************************************************************************************************************************/
+Learning Tutprials
+-------------------
+https://docs.microsoft.com/en-us/learn/paths/create-microservices-with-dotnet/?WT.mc_id=dotnet-35129-website
+
+Microservices using ASP.NET Core:- https://dotnettutorials.net/lesson/microservices-using-asp-net-core/
+
+/****************************************************************************************************************************/
+Microservices Pattern
+-----------------------
+https://medium.com/edureka/microservices-design-patterns-50640c7bf4a9
+https://www.dotnetcurry.com/microsoft-azure/microservices-architecture
+https://www.c-sharpcorner.com/article/microservices-design-using-gateway-pattern/
+CQRS:https://www.webtrainingroom.com/aspnetcore/microservices-example-using-aspnet-core
